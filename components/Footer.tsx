@@ -21,7 +21,7 @@ export const Footer: React.FC = () => {
               <a href="#" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-secondary hover:text-white transition-all duration-300"><Linkedin size={18} /></a>
             </div>
           </div>
-          
+
           <div>
             <h4 className="text-white font-bold mb-4">Services</h4>
             <ul className="space-y-3 text-sm">
@@ -36,13 +36,13 @@ export const Footer: React.FC = () => {
             <h4 className="text-white font-bold mb-4">Company</h4>
             <ul className="space-y-3 text-sm">
               <li><a href="#" className="hover:text-secondary transition-colors inline-block hover:translate-x-1 duration-200">About Us</a></li>
-              <li><a href="#" className="hover:text-secondary transition-colors inline-block hover:translate-x-1 duration-200">Careers</a></li>
+
               <li><a href="#" className="hover:text-secondary transition-colors inline-block hover:translate-x-1 duration-200">Privacy Policy</a></li>
               <li><a href="#" className="hover:text-secondary transition-colors inline-block hover:translate-x-1 duration-200">Terms of Service</a></li>
             </ul>
           </div>
         </div>
-        
+
         <div className="pt-8 border-t border-slate-800 text-center text-sm flex flex-col md:flex-row justify-between items-center gap-4">
           <p>&copy; {new Date().getFullYear()} SAI Construction. All rights reserved.</p>
           <p className="text-slate-600">Designed for Modern Living.</p>

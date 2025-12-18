@@ -72,7 +72,7 @@ export const Contact: React.FC = () => {
               </div>
               <div>
                 <p className="text-sm text-slate-400">Call us directly</p>
-                <p className="font-bold text-lg">+91 9441783068</p>
+                <p className="font-bold text-lg">+91 9884260235</p>
               </div>
             </div>
             <div className="flex items-center gap-4">
@@ -81,7 +81,7 @@ export const Contact: React.FC = () => {
               </div>
               <div>
                 <p className="text-sm text-slate-400">Email us</p>
-                <p className="font-bold text-lg">nandhinibalaaa@gmail.com</p>
+                <p className="font-bold text-lg">deepanmathi5@gmail.com</p>
               </div>
             </div>
           </div>

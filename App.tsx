@@ -6,6 +6,7 @@ import { Services } from './components/Services';
 import { Empathy } from './components/Empathy';
 import { Process } from './components/Process';
 import { Testimonials } from './components/Testimonials';
+import { Gallery } from './components/Gallery';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
 
@@ -17,6 +18,7 @@ function App() {
         <Hero />
         <WhyChooseUs />
         <Services />
+        <Gallery />
         <Empathy />
         <Process />
         <Testimonials />
