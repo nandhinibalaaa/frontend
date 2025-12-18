@@ -13,7 +13,7 @@ export const Empathy: React.FC = () => {
       <div className="grid lg:grid-cols-2 gap-16 items-center relative z-10">
         <div>
           <h2 className="font-display font-bold text-3xl md:text-5xl mb-6 leading-tight">
-            We Know Construction is <span className="text-secondary">Scary</span>.
+            we value your dreams <span className="text-secondary">.</span>.
           </h2>
           <p className="text-slate-300 text-lg mb-8 leading-relaxed">
             Stories of contractors running away with money, endless delays, and hidden costs are all too common. We founded SAI Construction to be the antidote to that anxiety.
